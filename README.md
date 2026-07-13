@@ -6,13 +6,9 @@
 
 <br>
 
-<a href="https://github.com/kowshikps56">
 <img src="https://komarev.com/ghpvc/?username=kowshikps56&label=Profile%20Views&color=00FF99&style=for-the-badge"/>
-</a>
 
-<a href="https://github.com/kowshikps56?tab=followers">
 <img src="https://img.shields.io/github/followers/kowshikps56?style=for-the-badge&logo=github"/>
-</a>
 
 </div>
 
@@ -20,25 +16,25 @@
 
 # 💻 About Me
 
-🎓 B.Tech Information Technology Student
+🎓 **B.Tech Information Technology Student**
 
 🔐 Passionate about
 
 - Penetration Testing
 - Ethical Hacking
 - Red Teaming
-- Vulnerability Assessment
 - Web Application Security
+- Vulnerability Assessment
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - Active Directory
 - Windows Privilege Escalation
-- Python Automation
+- Python for Security Automation
 - Malware Analysis
 - Advanced Web Exploitation
 
-🎯 Goal
+🎯 **Career Goal**
 
 Become a Professional Penetration Tester and Red Team Operator.
 
@@ -64,7 +60,7 @@ Become a Professional Penetration Tester and Red Team Operator.
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ Languages & Tools
 
 <p align="center">
 
@@ -80,7 +76,7 @@ Become a Professional Penetration Tester and Red Team Operator.
 
 <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
 
@@ -88,7 +84,7 @@ Become a Professional Penetration Tester and Red Team Operator.
 
 <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/John_The_Ripper-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John%20The%20Ripper-B22222?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge"/>
 
@@ -98,21 +94,37 @@ Become a Professional Penetration Tester and Red Team Operator.
 
 ---
 
-# 🔥 Skills
+# 🚀 Technical Skills
 
-- 🔹 Penetration Testing
-- 🔹 Vulnerability Assessment
-- 🔹 Web Application Security
-- 🔹 Linux Administration
-- 🔹 Network Security
-- 🔹 TCP/IP
-- 🔹 DNS
-- 🔹 HTTP / HTTPS
-- 🔹 OWASP Top 10
-- 🔹 Enumeration
-- 🔹 Privilege Escalation
-- 🔹 Bash Scripting
-- 🔹 Python
+### 💻 Operating Systems
+
+- Linux
+- Windows
+
+### 🌐 Networking
+
+- TCP/IP
+- DNS
+- HTTP / HTTPS
+- OSI Model
+- Subnetting
+- Routing & Switching
+
+### 🔐 Security
+
+- Penetration Testing
+- Vulnerability Assessment
+- Web Application Security
+- OWASP Top 10
+- Enumeration
+- Privilege Escalation
+- Active Directory Basics
+
+### 👨‍💻 Programming
+
+- Python
+- Bash
+- Git
 
 ---
 
@@ -121,22 +133,22 @@ Become a Professional Penetration Tester and Red Team Operator.
 ## 🏠 Home Penetration Testing Lab
 
 - Kali Linux
+- Metasploitable 2
+- Windows Virtual Machine
 - VirtualBox
-- Metasploitable
-- Windows VM
 
-Practiced
+Practiced:
 
 - Enumeration
 - Exploitation
-- Password Cracking
 - Privilege Escalation
+- Password Cracking
 
 ---
 
 ## 🌐 Network Scanner
 
-Python-based scanner capable of
+Python-based scanner capable of:
 
 - Host Discovery
 - Port Scanning
@@ -144,9 +156,9 @@ Python-based scanner capable of
 
 ---
 
-## 🕷️ Web Vulnerability Assessment
+## 🕷️ Web Application Security Assessment
 
-Performed testing using
+Performed testing using:
 
 - Burp Suite
 - Nmap
@@ -157,9 +169,7 @@ Performed testing using
 
 ## 📡 Network Traffic Analysis
 
-Captured and analyzed traffic using Wireshark
-
-Protocols
+Captured and analyzed traffic using Wireshark:
 
 - HTTP
 - DNS
@@ -171,81 +181,47 @@ Protocols
 
 # 📚 Currently Learning
 
-✅ TryHackMe
-
-✅ Hack The Box
-
-✅ Active Directory
-
-✅ Malware Analysis
-
-✅ Python Automation
-
-✅ Web Exploitation
+- ✅ TryHackMe
+- ✅ Hack The Box
+- ✅ Active Directory
+- ✅ Malware Analysis
+- ✅ Python Automation
+- ✅ Web Exploitation
 
 ---
 
 # 📜 Certifications
 
-Preparing For
+### Preparing For
 
 - CompTIA Security+
 - eJPT
-- TryHackMe Junior Penetration Tester
+- TryHackMe Junior Penetration Tester Path
 
 ---
 
-# 📊 GitHub Statistics
+# 🎯 2026 Goals
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kowshikps56&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowshikps56&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kowshikps56&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kowshikps56&theme=github-compact"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kowshikps56&theme=algolia&no-frame=true&margin-w=15&column=4"/>
-
-</div>
-
----
-
-# 🎯 Cybersecurity Goals - 2026
-
-- ✅ Complete Security+
-- ✅ Complete eJPT
+- ✅ Complete CompTIA Security+
+- 🔄 Complete eJPT
 - 🔄 Solve 100+ TryHackMe Rooms
 - 🔄 Solve 50+ Hack The Box Machines
 - 🔄 Build 10 Cybersecurity Projects
 - 🔄 Learn Active Directory Exploitation
 - 🔄 Master Web Application Penetration Testing
+- 🔄 Contribute to Open Source Security Projects
+
+---
+
+# 🏆 Platforms
+
+### 🟢 TryHackMe
+
+https://tryhackme.com/p/YOUR_USERNAME
+
+### 🔴 Hack The Box
+
+https://app.hackthebox.com/profile/YOUR_USERNAME
 
 ---
 
@@ -258,8 +234,8 @@ Preparing For
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Hack to Learn. Learn to Secure."*
+### 💻 Hack • Learn • Secure • Repeat
 
 </div>
