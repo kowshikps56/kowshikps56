@@ -200,18 +200,7 @@ Captured and analyzed traffic using Wireshark:
 
 ---
 
-# 🎯 2026 Goals
 
-- ✅ Complete CompTIA Security+
-- 🔄 Complete eJPT
-- 🔄 Solve 100+ TryHackMe Rooms
-- 🔄 Solve 50+ Hack The Box Machines
-- 🔄 Build 10 Cybersecurity Projects
-- 🔄 Learn Active Directory Exploitation
-- 🔄 Master Web Application Penetration Testing
-- 🔄 Contribute to Open Source Security Projects
-
----
 
 # 🏆 Platforms
 
