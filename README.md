@@ -1,38 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FF99,100:0F2027&text=Kowshik%20P%20S&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Penetration%20Tester%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18"/>
-
-</div>
-
-<div align="center">
-
 # 👋 Hi, I'm Kowshik P S
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Aspiring+Penetration+Tester;Cybersecurity+Enthusiast;Ethical+Hacker;Linux+%7C+Python+%7C+Networking;Always+Learning+Always+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Aspiring+Penetration+Tester;Cybersecurity+Enthusiast;Ethical+Hacker;Linux+%7C+Python+%7C+Networking;Always+Learning+New+Things"/>
+
+<br>
+
+<a href="https://github.com/kowshikps56">
+<img src="https://komarev.com/ghpvc/?username=kowshikps56&label=Profile%20Views&color=00FF99&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/kowshikps56?tab=followers">
+<img src="https://img.shields.io/github/followers/kowshikps56?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💻 About Me
 
 🎓 B.Tech Information Technology Student
 
-🔐 Passionate about Penetration Testing, Red Teaming and Ethical Hacking
+🔐 Passionate about
 
-🖥️ Strong foundation in Linux, Networking and Web Security
+- Penetration Testing
+- Ethical Hacking
+- Red Teaming
+- Vulnerability Assessment
+- Web Application Security
 
 🌱 Currently Learning
 
 - Active Directory
-- Web Application Penetration Testing
 - Windows Privilege Escalation
-- Python for Cybersecurity
+- Python Automation
 - Malware Analysis
+- Advanced Web Exploitation
 
-🎯 Career Goal
+🎯 Goal
 
-Become a Professional Penetration Tester / Red Team Operator.
+Become a Professional Penetration Tester and Red Team Operator.
 
 ---
 
@@ -40,87 +48,71 @@ Become a Professional Penetration Tester / Red Team Operator.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kowshikps">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:kowshikps56@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:kowshikps56@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/in/kowshikps">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/kowshikps56">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# ⚙️ Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker,mysql"/>
 
-</div>
+</p>
 
 ---
 
-# 🛡️ Security Tools
+# 🛡️ Cybersecurity Tools
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Metasploit-0078D7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-0066CC?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/John%20The%20Ripper-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John_The_Ripper-B22222?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Hydra-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Nikto-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-228B22?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📚 Cybersecurity Skills
+# 🔥 Skills
 
 - 🔹 Penetration Testing
 - 🔹 Vulnerability Assessment
 - 🔹 Web Application Security
-- 🔹 Network Security
 - 🔹 Linux Administration
+- 🔹 Network Security
+- 🔹 TCP/IP
+- 🔹 DNS
+- 🔹 HTTP / HTTPS
+- 🔹 OWASP Top 10
 - 🔹 Enumeration
 - 🔹 Privilege Escalation
-- 🔹 OWASP Top 10
-- 🔹 Active Directory Basics
 - 🔹 Bash Scripting
-- 🔹 Python Automation
-
----
-
-# 🚀 Current Learning
-
-✅ TryHackMe
-
-✅ Hack The Box
-
-✅ CTF Challenges
-
-✅ Active Directory
-
-✅ Red Teaming
-
-✅ Malware Analysis
-
-✅ Python Automation
+- 🔹 Python
 
 ---
 
@@ -128,25 +120,23 @@ Become a Professional Penetration Tester / Red Team Operator.
 
 ## 🏠 Home Penetration Testing Lab
 
-Built a complete home lab using
-
 - Kali Linux
-- Windows
-- Metasploitable
 - VirtualBox
+- Metasploitable
+- Windows VM
 
 Practiced
 
 - Enumeration
 - Exploitation
-- Privilege Escalation
 - Password Cracking
+- Privilege Escalation
 
 ---
 
 ## 🌐 Network Scanner
 
-Python-based scanner for
+Python-based scanner capable of
 
 - Host Discovery
 - Port Scanning
@@ -154,34 +144,50 @@ Python-based scanner for
 
 ---
 
-## 🕷️ Web Application Security Assessment
+## 🕷️ Web Vulnerability Assessment
 
 Performed testing using
 
 - Burp Suite
-- Gobuster
 - Nmap
+- Gobuster
 - Nikto
 
 ---
 
 ## 📡 Network Traffic Analysis
 
-Used Wireshark to inspect
+Captured and analyzed traffic using Wireshark
+
+Protocols
 
 - HTTP
 - DNS
 - TCP
-- ARP
+- UDP
 - ICMP
 
-Traffic for security analysis.
+---
+
+# 📚 Currently Learning
+
+✅ TryHackMe
+
+✅ Hack The Box
+
+✅ Active Directory
+
+✅ Malware Analysis
+
+✅ Python Automation
+
+✅ Web Exploitation
 
 ---
 
 # 📜 Certifications
 
-📖 Currently Preparing
+Preparing For
 
 - CompTIA Security+
 - eJPT
@@ -189,13 +195,13 @@ Traffic for security analysis.
 
 ---
 
-# 🏆 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kowshikps56&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kowshikps56&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowshikps56&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowshikps56&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -205,64 +211,55 @@ Traffic for security analysis.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kowshikps56&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kowshikps56&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kowshikps56&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kowshikps56&theme=github-compact"/>
 
 </div>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kowshikps56&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kowshikps56&theme=algolia&no-frame=true&margin-w=15&column=4"/>
 
 </div>
 
 ---
 
-# 👀 Visitor Counter
+# 🎯 Cybersecurity Goals - 2026
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kowshikps56&label=Profile%20Views&color=00ff99&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧠 Platforms
-
-## TryHackMe
-
-👉 https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME
-
-## Hack The Box
-
-👉 https://app.hackthebox.com/profile/YOUR_HTB_USERNAME
+- ✅ Complete Security+
+- ✅ Complete eJPT
+- 🔄 Solve 100+ TryHackMe Rooms
+- 🔄 Solve 50+ Hack The Box Machines
+- 🔄 Build 10 Cybersecurity Projects
+- 🔄 Learn Active Directory Exploitation
+- 🔄 Master Web Application Penetration Testing
 
 ---
 
-# ⚡ Fun Fact
+# 💡 Quote
 
-> "Every vulnerability is an opportunity to understand systems better and make them more secure."
+> **"Security is not a product, but a process."**  
+> — Bruce Schneier
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving my repositories a star!
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FF99&height=120&section=footer"/>
+*"Hack to Learn. Learn to Secure."*
 
 </div>
